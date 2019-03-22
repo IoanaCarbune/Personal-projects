@@ -1,8 +1,0 @@
-﻿  Source.cpp
-c:\users\ioana\documents\fac\an2\sem1\af\lab8\md2\md2\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating code
-  1 of 449 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  md2.vcxproj -> C:\Users\Ioana\Documents\fac\An2\sem1\AF\lab8\md2\Release\md2.exe

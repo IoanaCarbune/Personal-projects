@@ -1,3 +1,0 @@
-﻿  Source.cpp
-c:\users\ioana\documents\fac\an2\sem1\af\lab8\md2\md2\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  md2.vcxproj -> C:\Users\Ioana\Documents\fac\An2\sem1\AF\lab8\md2\Debug\md2.exe
