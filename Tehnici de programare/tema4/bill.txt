@@ -1,0 +1,5 @@
+Order id: 13
+Date: 07-05-2019 06:13
+Table: 1
+Salata	 X 	10.0
+	TOTAL 10.0
